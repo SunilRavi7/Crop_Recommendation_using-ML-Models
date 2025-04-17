@@ -11,7 +11,7 @@ This repository contains a machine learning-based system to recommend the most s
 - [Models and Results](#models-and-results)
 - [Visualizations](#visualizations)
 - [How to Contribute](#how-to-contribute)
-- [Contact](#contact)
+- [Contact](sunilr31r@gmail.com)
 
 ## Project Overview
 This project aims to assist farmers by suggesting the best crops to plant based on multiple environmental factors such as nitrogen (N), phosphorus (P), potassium (K), temperature, humidity, pH, and rainfall. We utilize several machine learning models to achieve high accuracy in crop recommendations.
